@@ -1,0 +1,48 @@
+{% extends './base.html' %}
+{% load staticfiles %}
+
+{% block slider %}
+<div id="slidebox" class="flexslider">
+  <ul class="slides">
+    <li style="width: 100%; float: left; margin-right: -100%; position: relative; display: none;" class="">
+      <img src="media/slide-image-1.jpg">
+              <div class="flex-caption">
+                <h2>Защита сети (ЛВС, КВС, ДВС)</h2>
+                <p>Получите 50% скидку на аудит сети! Заполните форму!</p>
+                <p>Защита периметра сети считается обязательным элементом системы обеспечения информационной безопасности корпоративной сети. Если злоумышленник или вредоносное программное обеспечение попадут в корпоративную сеть, последствия будут самыми непредсказуемыми.</p>
+                <p>Локальные сети. Корпоративные сети. Домашние сети. </p>
+                <a class="frmore" href="zashchita-seti-lvs-kvs-dvs"> Подробнее </a>
+              </div>
+    </li>
+    <li style="width: 100%; float: left; margin-right: -100%; position: relative; display: list-item;" class="flex-active-slide">
+      <img src="media/slide-image-2.jpg">
+        <div class="flex-caption">
+          <h2>Вы надежно защитили персональные данные клиентов?</h2>
+          <p>С 1-го июля выросли штрафы за нарушение закона №152 "О персональных данных" и регуляторы усилили свой контроль.<br>
+             Заполните форму, чтобы получить в подарок бесплатный аудит защищенности персональных данных.</p>
+          <a class="frmore" href="zashchita-personalnyh-dannyh-po-fz-152"> Подробнее </a>
+      </div>
+   </li>
+   <li style="width: 100%; float: left; margin-right: -100%; position: relative; display: none;" class="">
+     <img src="media/slide-image-3.jpg">
+      <div class="flex-caption">
+        <h2> Защита коммерческой тайны</h2>
+        <p>Бесплатная консультация по вводу режима коммерческой тайны! Напишите нам!<br>
+           Разработка организационно-распорядительной документации и
+           инженерно-техническая защита информации в соответствии с Федеральным
+           законом от 29.07.2004 № 98-ФЗ «О коммерческой тайне». </p>
+        <a class="frmore" href="confidential-paperwork"> Подробнее </a>
+      </div>
+   </li>
+ </ul><!-- /slides -->
+ <div class="doverlay"></div>
+  <ul class="flex-direction-nav">
+    <li>
+      <a class="flex-prev" href="#">Previous</a>
+    </li>
+    <li>
+      <a class="flex-next" href="#">Next</a>
+    </li>
+  </ul>
+ </div>
+{% endblock %}
