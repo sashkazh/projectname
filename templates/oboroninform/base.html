@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+
+<html>
+
+  <head>
+    {% block head %}
+    {% endblock %}
+  </head>
+
+  <body class="html front not-logged-in no-sidebars page-node page-node- page-node-1 node-type-page">
+    <div id="page">
+      {% block top %}
+      {% endblock %}
+      {% block bottom %}
+      {% endblock %}
+    </div>
+    <img src="media/informenter-marker-1.png" class="informenter-marker-hide" style="" id="informenter-marker-id" title="Right click to shift">
+  </body>
+
+</html>
