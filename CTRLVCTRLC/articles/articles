@@ -1,0 +1,40 @@
+<div id="content-wrap">
+                            <h1 class="page-title">Статьи</h1>                                                                      <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+
+  <div class="content">
+    <div class="view view-articles view-id-articles view-display-id-page articles-list">
+
+
+
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-sm-4">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"></div>  </div>
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/personal-information-politics">Политика обработки и защиты персональных данных</a></span>  </h2>  </div>
+  <div class="views-row views-row-2 views-row-even col-sm-4">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/articles/info-security"><img src="{% static "images/ugrozi_ib.jpg" %}" alt="Информационная безопасность" width="320" height="240"></a></div>  </div>
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/articles/info-security">Информационная безопасность</a></span>  </h2>  </div>
+  <div class="views-row views-row-3 views-row-odd col-sm-4">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/articles/konfidencialnoe-deloproizvodstvo"><img src="{% static "images/ui-50b42abd9af7c7.jpeg" %}" alt="Конфиденциальное делопроизводство" width="320" height="240"></a></div>  </div>
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/articles/konfidencialnoe-deloproizvodstvo">Конфиденциальное делопроизводство</a></span>  </h2>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last col-sm-4">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/articles/otvetstvennost-za-narushenie-zakona-152-fz-o-personalnyh-dannyh"><img src="{% static "images/23069.jpg" %}" alt="Ответственность за нарушение закона 152-ФЗ &quot;О персональных данных&quot;" width="320" height="240"></a></div>  </div>
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/articles/otvetstvennost-za-narushenie-zakona-152-fz-o-personalnyh-dannyh">Ответственность за нарушение закона 152-ФЗ "О персональных данных"</a></span>  </h2>  </div>
+    </div>
+
+
+
+
+
+
+</div>  </div>
+
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+            </div>

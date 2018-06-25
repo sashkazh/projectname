@@ -1,0 +1,81 @@
+<div id="content-wrap">
+                            <h1 class="page-title">Защита персональных данных по ФЗ-152</h1>                                                                      <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+
+  <div class="content">
+
+
+
+  <div class="content">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="{% static "images/4.jpg"}" alt="" width="200" height="127"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><div class="Section1">
+<div class="Section1">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Закон № 152-ФЗ определил высокоуровневые требования, которые затем были конкретизированы в подзаконных актах Правительства РФ и Министерства связи, нормативно-методических документах регуляторов Федеральной службы по техническому и экспортному контролю (ФСТЭК России), Федеральной службы безопасности Российской Федерации (ФСБ России) и Федеральной службы по надзору в сфере связи и массовых коммуникаций (Роскомнадзор). В соответствии с Законом №152-ФЗ персональными данными является любая информация, с помощью которой можно однозначно идентифицировать физическое лицо (субъект ПДн). К персональным данным в связи с этим могут относиться фамилия, имя, отчество, год, месяц, дата и место рождения, адрес, семейное, социальное, имущественное положение, образование, профессия, доходы, другая информация, принадлежащая субъекту ПДн. Данные о состоянии здоровья пациента, относятся к категории «специальные» согласно Федеральному закону от 27.07.2006 № 152-ФЗ «О персональных данных» и требуют максимального уровня защищенности.</span></p>
+<h2><strong><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Пример для организаций, обрабатывающих данные о состоянии здоровья.</span></strong></h2>
+<table style="border-color: initial; border-style: solid;" cellspacing="0" cellpadding="0"><thead><tr><th><span style="font-size: small; font-family: arial, helvetica, sans-serif;"><strong>Информационные риски</strong></span></th>
+<th><span style="font-size: small; font-family: arial, helvetica, sans-serif;"><strong>Последствия</strong></span></th>
+</tr></thead><tbody><tr><td style="width: 382.5pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt;" width="510" valign="top">
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span style="background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Утечка персональных данных,</span> разглашения конфиденциальной информации (состоянии здоровья пациента, персональные данные рабочего персонала).</span></p>
+</td>
+<td style="width: 15cm; border-top-style: none; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; padding: 0cm 5.4pt;" width="567" valign="top">
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Приостановка или даже отзыв лицензии. Недоверие партнеров, сотрудников, клиентов, серьезные финансовые потери. Включение организации в план проверок, либо внеплановые проверки регуляторами (Роскомнадзор, ФСТЭК, ФСБ) в результате жалоб граждан. </span></p>
+</td>
+</tr><tr><td style="width: 382.5pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt;" width="510" valign="top">
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Выход из строя информационных систем организации</span></p>
+</td>
+<td style="width: 15cm; border-top-style: none; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; padding: 0cm 5.4pt;" width="567" valign="top">
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Остановка бизнес процессов, возникновение общественного дискомфорта, потеря клиентов, финансовые потери.</span></p>
+</td>
+</tr><tr><td style="width: 382.5pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt;" width="510" valign="top">
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Вирусное заражение автоматизированных рабочих мест</span></p>
+</td>
+<td style="width: 15cm; border-top-style: none; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; padding: 0cm 5.4pt;" width="567" valign="top">
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Нарушение/остановка работ информационных систем, бизнес процессов, искажение/утрата данных, финансовые потери.</span></p>
+</td>
+</tr><tr><td style="width: 382.5pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt;" width="510" valign="top">
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Нарушение целостности и доступности данных</span></p>
+</td>
+<td style="width: 15cm; border-top-style: none; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; padding: 0cm 5.4pt;" width="567" valign="top">
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Возможность нанесения непоправимого ущерба здоровью пациентов, вывод из строя информационных систем организации, недоверие партнеров, сотрудников, клиентов, серьезные финансовые потери.</span></p>
+</td>
+</tr><tr><td style="width: 382.5pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt;" width="510" valign="top">
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Отсутствие регламентирующей документации</span></p>
+</td>
+<td style="width: 15cm; border-top-style: none; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; padding: 0cm 5.4pt;" width="567" valign="top">
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Максимальная роль человеческого фактора, ущерб бизнес процессам и организации в целом.</span></p>
+</td>
+</tr><tr><td style="width: 382.5pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt;" width="510" valign="top">
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Нелегальное использование программного обеспечения</span></p>
+</td>
+<td style="width: 15cm; border-top-style: none; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; padding: 0cm 5.4pt;" width="567" valign="top">
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Изъятие оборудования. Серьезный ущерб репутации, отток клиентов, финансовые потери, уголовная и административная ответственность. Включение организации в план проверок, либо внеплановые проверки регуляторами (ФСТЭК, ФСБ).</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Некорректная работа программного обеспечения, информационных систем. Опасность заражения вирусами, потеря/утечка конфиденциальных данных, нарушение бизнес процессов. </span></p>
+</td>
+</tr><tr><td style="width: 382.5pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt;" width="510" valign="top">
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Нарушение (несоответствие требованиям) законодательства и нормативной базы</span></p>
+</td>
+<td style="width: 15cm; border-top-style: none; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; padding: 0cm 5.4pt;" width="567" valign="top">
+<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Приостановка деятельности, изъятие оборудования.&nbsp;</span><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Включение организации в план проверок, либо внеплановые проверки регуляторами (Роскомнадзор, ФСТЭК, ФСБ),предписания, наказания, ущерб репутации, отток клиентов, серьезные финансовые потери.</span></p>
+</td>
+</tr></tbody></table><p>&nbsp;</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Во избежание всех этих информационных рисков наша работа по защите персональных данных по ФЗ-152 поможет&nbsp;Вам существенно снизить возможные финансовые затраты, вовремя обнаружив и предотвратив угрозы, а также произвести оценку действующего уровня защищенности информации, повысить информационную безопасность организации в целом, соответствовать требования законодательства РФ в области защиты информации и решить вопросы прохождения проверок.</span></p>
+<p><strong style="font-size: 13.008px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 13.008px;">Этапы проведения работ:</span></strong></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 13.008px;">1. Бесплатный аудит &nbsp;- в подарок;</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 13.008px;">2. Нормативно – правовое обеспечение (Разработка необходимой документации);</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 13.008px;">3.&nbsp;Защита информационных систем персональных данных (Разработка технического задания &nbsp;и внедрение средств защиты информации);</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 13.008px;">4.&nbsp;Аттестация информационной системы персональных данных;</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 13.008px;">5. Гарантийные обязательства по устранению замечаний контролирующих государственных органов.</span></p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div></div></div><div class="field field-request"><a href="/request?subject=15#content" class="btn">Заполнить заявку</a></div>  </div>
+
+      <footer>
+          </footer>
+
+    </div>
+
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+            </div>

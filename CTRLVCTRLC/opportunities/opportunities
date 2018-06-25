@@ -1,0 +1,32 @@
+<div id="content-wrap">
+                            <h1 class="page-title">Готовые решения</h1>                                                                      <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+
+  <div class="content">
+    <div class="view view-solution view-id-solution view-display-id-page solutions-list view-dom-id-db383791fb7ce7ab9371d6a8f5ccd010">
+
+
+
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/zashchita-seti-lvs-kvs-dvs"><img src="{% static "images/oboroninform_sn.png"%}" alt="" width="200" height="122"></a></div>  </div>
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/zashchita-seti-lvs-kvs-dvs">Защита сети (ЛВС, КВС, ДВС)</a></span>  </h2>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/zashchita-personalnyh-dannyh-po-fz-152"><img src="{% static "images/4.jpg"%}" alt="" width="200" height="127"></a></div>  </div>
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/zashchita-personalnyh-dannyh-po-fz-152">Защита персональных данных по ФЗ-152</a></span>  </h2>  </div>
+    </div>
+
+
+
+
+
+
+</div>  </div>
+
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+            </div>

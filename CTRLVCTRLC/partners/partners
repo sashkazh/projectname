@@ -1,0 +1,89 @@
+<div id="content-wrap">
+                            <h1 class="page-title">Партнёры</h1>                                                                     <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+
+  <div class="content">
+    <div class="view view-partners view-id-partners view-display-id-page partners-list">
+
+
+
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><img src="{% static "images/logo_0034_check_point_vert_eng_tagline.png" %}" alt="" width="200" height="126"></div>  </div>
+  <div class="views-field views-field-title">        <strong class="field-content">CHECKPOINT SOFTWARE TECHNOLOGIES</strong>  </div>
+  <div class="views-field views-field-body">        <div class="field-content">Компания Check Point Software Technologies – мировой лидер в области решений для защиты информации в Интернет. Компания признана ведущей на мировом рынке средств обеспечения информационной безопасности среди производителей корпоративных и персональных межсетевых экранов Firewall, а также средств организации защищенных каналов взаимодействия VPN.
+
+</div>  </div>
+  <div class="views-field views-field-field-url">        <div class="field-content"><a href="http://www.checkpoint.com" rel="nofollow">http://www.checkpoint.com</a></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><img src="{% static "images/cisco-logo.jpg" %}" alt="" width="160" height="160"></div>  </div>
+  <div class="views-field views-field-title">        <strong class="field-content">Cisco</strong>  </div>
+  <div class="views-field views-field-body">        <div class="field-content">Cisco - международная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основном для крупных организаций и телекоммуникационных предприятий.</div>  </div>
+  <div class="views-field views-field-field-url">        <div class="field-content"><a href="http://www.cisco.com/" rel="nofollow">www.cisco.com</a></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><img src="{% static images/dr.web_antivirus_dlya_windows-logo.png" %}" alt="" width="160" height="160"></div>  </div>
+  <div class="views-field views-field-title">        <strong class="field-content">Dr.Web</strong>  </div>
+  <div class="views-field views-field-body">        <div class="field-content">«Доктор Веб» — российский производитель антивирусных средств защиты информации под маркой Dr.Web. Продукты Dr.Web разрабатываются с 1992 года. Это один из первых антивирусов в мире.</div>  </div>
+  <div class="views-field views-field-field-url">        <div class="field-content"><a href="https://www.drweb.ru/" rel="nofollow">Dr.Web</a></div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><img src="{% static "images/forcepoint.png" %}" alt="" width="305" height="160"></div>  </div>
+  <div class="views-field views-field-title">        <strong class="field-content">Forcepoint</strong>  </div>
+  <div class="views-field views-field-body">        <div class="field-content">Forcepoint распространяет свои решения через глобальную сеть с помощью партнерской линии. Решения Forcepoint по обеспечению безопасности помогают блокировать вредоносный код, предотвращать потери конфиденциальной информации и обеспечивать целесообразное использование Интернета при конкретной политики безопасности.</div>  </div>
+  <div class="views-field views-field-field-url">        <div class="field-content"><a href="https://www.forcepoint.com" rel="nofollow">Forcepoint</a></div>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><img src="{% static "images/logo_0029_fortinet_hor_eng.png" %}" alt="" width="200" height="60"></div>  </div>
+  <div class="views-field views-field-title">        <strong class="field-content">FORTINET</strong>  </div>
+  <div class="views-field views-field-body">        <div class="field-content">Fortinet – признанный лидер рынка унифицированного управления угрозами (UTM) и всемирный производитель многофункциональных устройств сетевой безопасности, эффективно защищающих, в том числе и от современных комбинированных многоуровневых атак. Интегрированные средства Fortinet позволяют объединить в одном устройстве все технологии обеспечения безопасности, обеспечивая экономически эффективную комплексную защиту сетевой инфраструктуры от различных типов угроз без ущерба для производительности. Решения Fortinet используются для обеспечения сетевой безопасности по всему миру в самых различных отраслях экономики и сферах бизнеса, а также в государственном секторе.
+</div>  </div>
+  <div class="views-field views-field-field-url">        <div class="field-content"><a href="http://www.fortinet.com" rel="nofollow">FORTINET</a></div>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><img src="{% static "images/lumension.png" %}" alt="" width="200" height="71"></div>  </div>
+  <div class="views-field views-field-title">        <strong class="field-content">LUMENSION</strong>  </div>
+  <div class="views-field views-field-body">        <div class="field-content">Lumension – мировой лидер на рынке управления и защиты конечных точек. Компания занимается разработкой и внедрением программных решений для бизнеса, служащих для защиты данных от всех видов современных угроз в соответствии с установленными политиками и стандартами безопасности. Более 5000 компаний по всему миру используют решения Lumension для управления рисками и построения надежной корпоративной системы информационной безопасности.</div>  </div>
+  <div class="views-field views-field-field-url">        <div class="field-content"><a href="http://www.lumension.com" rel="nofollow">LUMENSION</a></div>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><img src="{% static "images/logo_0018_mcafee_hor_eng.png" %}" alt="" width="200" height="80"></div>  </div>
+  <div class="views-field views-field-title">        <strong class="field-content">MCAFEE, INC.</strong>  </div>
+  <div class="views-field views-field-body">        <div class="field-content">Крупнейший поставщик решений в области информационной безопасности. Инновационные продукты McAfee помогают соблюдать установленные стандарты и нормы, защищать свои данные, предотвращать сетевые вторжения, идентифицировать наиболее незащищенные элементы и проводить постоянный мониторинг своего компьютера.</div>  </div>
+  <div class="views-field views-field-field-url">        <div class="field-content"><a href="http://www.mcafee.com" rel="nofollow">MCAFEE, INC.</a></div>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><img src="{% static "images/new-microsoft-logo-sized-square-300x297.jpg" %}" alt="" width="162" height="160"></div>  </div>
+  <div class="views-field views-field-title">        <strong class="field-content">Microsoft</strong>  </div>
+  <div class="views-field views-field-body">        <div class="field-content">Microsoft Corporation - одна из крупнейших транснациональных компаний по производству проприетарного программного обеспечения для  персональных компьютеров, игровых приставок, КПК, мобильных телефонов и прочего.</div>  </div>
+  <div class="views-field views-field-field-url">        <div class="field-content"><a href="http://www.microsoft.com/ru-ru/" rel="nofollow">microsoft.com</a></div>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><img src="{% static "images/logo_0012_paloalto_vert_eng.png" %}" alt="" width="200" height="147"></div>  </div>
+  <div class="views-field views-field-title">        <strong class="field-content">PALO ALTO NETWORKS, INC</strong>  </div>
+  <div class="views-field views-field-body">        <div class="field-content">Ведущий производитель и пионер высокопроизводительных межсетевых экранов нового поколения, лидер сетевой безопасности за счет инновационной платформы, которая обеспечивает видимость и контроль над всеми приложениями и пользователями сети, а также содержанием корпоративного трафика, используя оптимизированные аппаратные и программные архитектуры.  Платформа Palo Alto Networks решает широкий спектр требований сетевой безопасности, необходимых различному типу заказчиков: от центра обработки данных до корпоративного периметра с условными логическими границами, включающие в себя филиалы и мобильные устройства.
+</div>  </div>
+  <div class="views-field views-field-field-url">        <div class="field-content"><a href="http://www.paloaltonetworks.com" rel="nofollow">PALO ALTO NETWORKS, INC</a></div>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+
+  <div class="views-field views-field-field-image">        <div class="field-content"><img src="{% static "images/logo_0020_logo_splunk.png" %}" alt="" width="200" height="91"></div>  </div>
+  <div class="views-field views-field-title">        <strong class="field-content">SPLUNK</strong>  </div>
+  <div class="views-field views-field-body">        <div class="field-content">Ведущий поставщик программного обеспечения для управления операционной деятельностью, которое используется для мониторинга, создания отчетов и анализа машинных данных в режиме реального времени, а также данных, хранящихся на компьютерах организации или в облаке. Splunk позволяет найти и устранить проблемы с приложениями и расследовать нарушения системы безопасности за считанные минуты, не допустить ухудшения обслуживания или простоев, обеспечить соответствие требованиям при меньших затратах и собрать новые ценные сведения для ИТ и бизнеса.
+</div>  </div>
+  <div class="views-field views-field-field-url">        <div class="field-content"><a href="http://www.splunk.com" rel="nofollow">SPLUNK</a></div>  </div>  </div>
+    </div>
+
+
+
+
+
+
+</div>  </div>
+
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+            </div>

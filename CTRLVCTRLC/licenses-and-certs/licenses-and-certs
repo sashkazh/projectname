@@ -1,0 +1,33 @@
+<div id="content-wrap">
+                            <h1 class="page-title">Лицензии и сертификаты</h1>                                                                      <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+
+  <div class="content">
+
+
+
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>Лицензии.</h2>
+<p style="text-align: center;"><span style="font-size: medium;">1. Лицензия на деятельность по технической защите конфиденциальной информации. </span><br><span style="font-size: medium;"> ООО "Оборонинформ"</span></p>
+<p><img src="{% static "images/tzki.jpg" %}" style="display: block; margin-left: auto; margin-right: auto;" width="700" height="994"></p>
+<p style="text-align: center;"><span style="font-size: medium;">2. Лицензия на деятельность по разработке и производству средств защиты конфиденциальной информации. </span><br><span style="font-size: medium;"> ООО "Оборонинформ"</span></p>
+<p><img src="{% static "images/szki.jpg" %}" style="display: block; margin-left: auto; margin-right: auto;" width="700" height="994"></p>
+<h2>Сертификаты.</h2>
+<p style="text-align: center;"><span style="font-size: medium;">1. Сертификат соответствия ISO/IEC 27001:2013. Система менеджмента информационной безопасности. ООО "Оборонинформ".</span></p>
+<p style="text-align: center;"><img src="{% static "images/27001-iso-oi.jpg" %}" width="700" height="977"></p>
+<p style="text-align: center;">&nbsp;<span style="font-size: medium;">2. Сертификат соответствия ГОСТ Р ИСО (ISO 9001-2015). Система менеджмента качества. ООО "Оборонинформ".</span></p>
+<p style="text-align: center;"><span style="font-size: medium;"><img src="{% static "images/9001-iso-oi.jpg" %}" width="700" height="977"></span></p>
+<p style="text-align: center;">&nbsp;<span style="font-size: 13.008px;">Приложение к сертификату соответствия ISO/IEC 27001:2013. Система менеджмента информационной безопасности. И совпадает с приложением <span>сертификата соответствия ГОСТ Р ИСО (ISO 9001-2015). Система менеджмента качества.</span>&nbsp;ООО "Оборонинформ".</span></p>
+<p><img src="{% static "images/application-27001-oi.jpg" %}" style="display: block; margin-left: auto; margin-right: auto;" width="700" height="977"><span style="font-size: 13.008px;"><br></span></p>
+</div></div></div>  </div>
+
+      <footer>
+          </footer>
+
+    </div>
+
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+            </div>
