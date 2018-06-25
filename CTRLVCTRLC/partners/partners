@@ -25,7 +25,7 @@
   <div class="views-field views-field-field-url">        <div class="field-content"><a href="http://www.cisco.com/" rel="nofollow">www.cisco.com</a></div>  </div>  </div>
   <div class="views-row views-row-3 views-row-odd">
 
-  <div class="views-field views-field-field-image">        <div class="field-content"><img src="{% static images/dr.web_antivirus_dlya_windows-logo.png" %}" alt="" width="160" height="160"></div>  </div>
+  <div class="views-field views-field-field-image">        <div class="field-content"><img src="{% static images/drweb.png" %}" alt="" width="160" height="160"></div>  </div>
   <div class="views-field views-field-title">        <strong class="field-content">Dr.Web</strong>  </div>
   <div class="views-field views-field-body">        <div class="field-content">«Доктор Веб» — российский производитель антивирусных средств защиты информации под маркой Dr.Web. Продукты Dr.Web разрабатываются с 1992 года. Это один из первых антивирусов в мире.</div>  </div>
   <div class="views-field views-field-field-url">        <div class="field-content"><a href="https://www.drweb.ru/" rel="nofollow">Dr.Web</a></div>  </div>  </div>
