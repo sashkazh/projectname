@@ -1,226 +1,204 @@
 <div id="preface-area">
-      <div class="container">
-        <div class="row">
-          <div class="region region-preface">
-  <div id="block-block-5" class="block block-block">
-
-
-  <div class="content">
-    <p style="text-align: center;"><a href="/request" class="btn dark">Отправить заявку&nbsp;на оценку и заказ услуг</a></p>
-  </div>
-
-</div> <!-- /.block -->
-</div>
- <!-- /.region -->
-          <div class="preface-block col-sm-6">
-            <div class="region region-preface-first">
-  <div id="block-views-services-block-1" class="block block-views">
-
-        <h2>Наши услуги</h2>
-
-  <div class="content">
-    <div class="view view-services view-id-services view-display-id-block_1 services-list">
-
-
-
-      <div class="view-content">
-          <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/services/attestaciya-informacionnyh-sistem">Аттестация информационных систем</a></span>  </div></li>
-          <li class="views-row views-row-2 views-row-even">
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/corporate-network-protection">Защита периметра корпоративной сети</a></span>  </div></li>
-          <li class="views-row views-row-3 views-row-odd views-row-last">
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/confidential-paperwork">Защита коммерческой тайны</a></span>  </div></li>
-      </ul>    </div>
-
-
-
-
-<div class="more-link">
-  <a href="/services">
-    Полный список услуг  </a>
-</div>
-
-
-
-</div>  </div>
-
-</div> <!-- /.block -->
-</div>
- <!-- /.region -->
-          </div>                    <div class="preface-block col-sm-6">
-            <div class="region region-preface-last">
-  <div id="block-views-solution-block-1" class="block block-views">
-
-        <h2>Решения</h2>
-
-  <div class="content">
-    <div class="view view-solution view-id-solution view-display-id-block_1 solutions-list">
-
-
-
-      <div class="view-content">
-          <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/zashchita-seti-lvs-kvs-dvs">Защита сети (ЛВС, КВС, ДВС)</a></span>  </div></li>
-          <li class="views-row views-row-2 views-row-even views-row-last">
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/zashchita-personalnyh-dannyh-po-fz-152">Защита персональных данных по ФЗ-152</a></span>  </div></li>
-      </ul>    </div>
-
-
-
-
-<div class="more-link">
-  <a href="/opportunities">
-    Полный список решений  </a>
-</div>
-
-
-
-</div>  </div>
-
-</div> <!-- /.block -->
-</div>
- <!-- /.region -->
-          </div>        </div>
-      </div>
-    </div>
-
- <!-- ----------------------Почему выбирают нас-------------------------------- -->
-
- <div id="header-block">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12">
-            <div class="region region-header">
-  <div id="block-views-terms-block-1" class="block block-views">
-
-        <h2>Почему выбирают нас</h2>
-
-  <div class="content">
-    <div class="view view-terms view-id-terms view-display-id-block_1">
-
-
-
-      <div class="view-content">
-          <ul>          <li class="views-row views-row-1 views-row-odd views-row-first col-sm-6">
-  <div class="views-field views-field-name">        <span class="field-content">Конфиденциально и надежно</span>  </div></li>
-          <li class="views-row views-row-2 views-row-even col-sm-6">
-  <div class="views-field views-field-name">        <span class="field-content">Максимальная эффективность решений</span>  </div></li>
-          <li class="views-row views-row-3 views-row-odd col-sm-6">
-  <div class="views-field views-field-name">        <span class="field-content">Профессионально и своевременно</span>  </div></li>
-          <li class="views-row views-row-4 views-row-even views-row-last col-sm-6">
-  <div class="views-field views-field-name">        <span class="field-content">Экономически обоснованно</span>  </div></li>
-      </ul>    </div>
-
-
-
-
-
-
-</div>  </div>
-
-</div> <!-- /.block -->
-</div>
- <!-- /.region -->
+  <div class="container">
+    <div class="row">
+      <div class="region region-preface">
+        <div id="block-block-5" class="block block-block">
+          <div class="content">
+            <p style="text-align: center;"><a href="/request" class="btn dark">Отправить заявку&nbsp;на оценку и заказ услуг</a></p>
           </div>
         </div>
+        <!-- /.block -->
+      </div>
+      <!-- /.region -->
+      <div class="preface-block col-sm-6">
+        <div class="region region-preface-first">
+          <div id="block-views-services-block-1" class="block block-views">
+            <h2>Наши услуги</h2>
+            <div class="content">
+              <div class="view view-services view-id-services view-display-id-block_1 services-list">
+                <div class="view-content">
+                  <ul>
+                    <li class="views-row views-row-1 views-row-odd views-row-first">
+                      <div class="views-field views-field-title"> <span class="field-content"><a href="/services/attestaciya-informacionnyh-sistem">Аттестация информационных систем</a></span> </div>
+                    </li>
+                    <li class="views-row views-row-2 views-row-even">
+                      <div class="views-field views-field-title"> <span class="field-content"><a href="/corporate-network-protection">Защита периметра корпоративной сети</a></span> </div>
+                    </li>
+                    <li class="views-row views-row-3 views-row-odd views-row-last">
+                      <div class="views-field views-field-title"> <span class="field-content"><a href="/confidential-paperwork">Защита коммерческой тайны</a></span> </div>
+                    </li>
+                  </ul>
+                </div>
+                <div class="more-link">
+                  <a href="/services">
+                  Полный список услуг  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- /.block -->
+        </div>
+        <!-- /.region -->
+      </div>
+      <div class="preface-block col-sm-6">
+        <div class="region region-preface-last">
+          <div id="block-views-solution-block-1" class="block block-views">
+            <h2>Решения</h2>
+            <div class="content">
+              <div class="view view-solution view-id-solution view-display-id-block_1 solutions-list">
+                <div class="view-content">
+                  <ul>
+                    <li class="views-row views-row-1 views-row-odd views-row-first">
+                      <div class="views-field views-field-title"> <span class="field-content"><a href="/zashchita-seti-lvs-kvs-dvs">Защита сети (ЛВС, КВС, ДВС)</a></span> </div>
+                    </li>
+                    <li class="views-row views-row-2 views-row-even views-row-last">
+                      <div class="views-field views-field-title"> <span class="field-content"><a href="/zashchita-personalnyh-dannyh-po-fz-152">Защита персональных данных по ФЗ-152</a></span> </div>
+                    </li>
+                  </ul>
+                </div>
+                <div class="more-link">
+                  <a href="/opportunities">
+                  Полный список решений  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- /.block -->
+        </div>
+        <!-- /.region -->
       </div>
     </div>
-
- <!-- ----------------------«Оборонинформ» – центр информационной безопасности-------------------------------- -->
-
- <div id="main-content">
-    <div class="container">
-      <div class="row">
-                <div id="primary" class="content-area col-sm-12">
-          <section id="content" role="main" class="clearfix">
-                                                <div id="content-wrap">
-                            <h1 class="page-title">«Оборонинформ» – центр информационной безопасности</h1>                                                                      <div class="region region-content">
-  <div id="block-system-main" class="block block-system">
-
-
-  <div class="content">
-
-
-
-  <div class="content">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>В основе нашего подхода лежит концепция безрискового проектирования — все решения проходят оценку качества и доводятся до совершенства на площадках наших заказчиков. Для часто встречающихся задач мы используем типовые многократно проверенные на практике решения. Решая текущие задачи клиентов, мы опираемся на многолетний опыт и учитываем потенциальные потребности клиентов. Такой подход обеспечивает максимальную отдачу от инвестиций в информационную безопасность. Использование многократно испытанных типовых решений минимизирует риски, позволяет сократить сроки разработки и внедрения средств информационной безопасности.</p>
-</div></div></div>  </div>
-
-      <footer>
-          </footer>
-
-    </div>
-
-</div> <!-- /.block -->
-<div id="block-views-partners-block-1" class="block block-views">
-
-        <h2>Наши партнёры</h2>
-
-  <div class="content">
-    <div class="view view-partners view-id-partners view-display-id-block_1 partners-list">
-
-
-
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first">
-
-  <div class="views-field views-field-field-image">        <div class="field-content"><img src={% static "images/logo_0034_check_point_vert_eng_tagline.png" %}" alt="" width="190" height="120"></div>  </div>
-  <div class="views-field views-field-title">        <strong class="field-content">CHECKPOINT SOFTWARE TECHNOLOGIES</strong>  </div>  </div>
-  <div class="views-row views-row-2 views-row-even">
-
-  <div class="views-field views-field-field-image">        <div class="field-content"><img src={% static "images/cisco-logo.jpg" %}" alt="" width="120" height="120"></div>  </div>
-  <div class="views-field views-field-title">        <strong class="field-content">Cisco</strong>  </div>  </div>
-  <div class="views-row views-row-3 views-row-odd">
-
-  <div class="views-field views-field-field-image">        <div class="field-content"><img src={% static "images/dr.web_antivirus_dlya_windows-logo.png" %}" alt="" width="120" height="120"></div>  </div>
-  <div class="views-field views-field-title">        <strong class="field-content">Dr.Web</strong>  </div>  </div>
-  <div class="views-row views-row-4 views-row-even">
-
-  <div class="views-field views-field-field-image">        <div class="field-content"><img src={% static "images/forcepoint.png" %}" alt="" width="229" height="120"></div>  </div>
-  <div class="views-field views-field-title">        <strong class="field-content">Forcepoint</strong>  </div>  </div>
-  <div class="views-row views-row-5 views-row-odd">
-
-  <div class="views-field views-field-field-image">        <div class="field-content"><img src={% static "images/logo_0029_fortinet_hor_eng.png" %}" alt="" width="200" height="60"></div>  </div>
-  <div class="views-field views-field-title">        <strong class="field-content">FORTINET</strong>  </div>  </div>
-  <div class="views-row views-row-6 views-row-even">
-
-  <div class="views-field views-field-field-image">        <div class="field-content"><img src={% static "images/lumension.png" %}" alt="" width="200" height="71"></div>  </div>
-  <div class="views-field views-field-title">        <strong class="field-content">LUMENSION</strong>  </div>  </div>
-  <div class="views-row views-row-7 views-row-odd">
-
-  <div class="views-field views-field-field-image">        <div class="field-content"><img src={% static "images/logo_0018_mcafee_hor_eng.png" %}" alt="" width="200" height="80"></div>  </div>
-  <div class="views-field views-field-title">        <strong class="field-content">MCAFEE, INC.</strong>  </div>  </div>
-  <div class="views-row views-row-8 views-row-even">
-
-  <div class="views-field views-field-field-image">        <div class="field-content"><img src={% static "images/new-microsoft-logo-sized-square-300x297.jpg" %}" alt="" width="121" height="120"></div>  </div>
-  <div class="views-field views-field-title">        <strong class="field-content">Microsoft</strong>  </div>  </div>
-  <div class="views-row views-row-9 views-row-odd">
-
-  <div class="views-field views-field-field-image">        <div class="field-content"><img src={% static "images/logo_0012_paloalto_vert_eng.png" %}" alt="" width="163" height="120"></div>  </div>
-  <div class="views-field views-field-title">        <strong class="field-content">PALO ALTO NETWORKS, INC</strong>  </div>  </div>
-  <div class="views-row views-row-10 views-row-even views-row-last">
-
-  <div class="views-field views-field-field-image">        <div class="field-content"><img src={% static "images/logo_0020_logo_splunk.png" %}" alt="" width="200" height="91"></div>  </div>
-  <div class="views-field views-field-title">        <strong class="field-content">SPLUNK</strong>  </div>  </div>
-    </div>
-
-
-
-
-<div class="more-link">
-  <a href="/partners">Все партнёры</a>
+  </div>
 </div>
-
-
-
-</div>  </div>
-
-</div> <!-- /.block -->
-</div>
- <!-- /.region -->
-            </div>
-          </section>
-        </div>
+<div id="header-block">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="region region-header">
+          <div id="block-views-terms-block-1" class="block block-views">
+            <h2>Почему выбирают нас</h2>
+            <div class="content">
+              <div class="view view-terms view-id-terms view-display-id-block_1">
+                <div class="view-content">
+                  <ul>
+                    <li class="views-row views-row-1 views-row-odd views-row-first col-sm-6">
+                      <div class="views-field views-field-name"> <span class="field-content">Конфиденциально и надежно</span> </div>
+                    </li>
+                    <li class="views-row views-row-2 views-row-even col-sm-6">
+                      <div class="views-field views-field-name"> <span class="field-content">Максимальная эффективность решений</span> </div>
+                    </li>
+                    <li class="views-row views-row-3 views-row-odd col-sm-6">
+                      <div class="views-field views-field-name"> <span class="field-content">Профессионально и своевременно</span> </div>
+                    </li>
+                    <li class="views-row views-row-4 views-row-even views-row-last col-sm-6">
+                      <div class="views-field views-field-name"> <span class="field-content">Экономически обоснованно</span> </div>
+                    </li>
+                  </ul>
+                </div>
               </div>
+            </div>
+          </div>
+          <!-- /.block -->
+        </div>
+        <!-- /.region -->
+      </div>
     </div>
   </div>
+</div>
+
+<div id="main-content">
+  <div class="container">
+    <div class="row">
+      <div id="primary" class="content-area col-sm-12">
+        <section id="content" role="main" class="clearfix">
+          <div id="content-wrap">
+            <h1 class="page-title">«Оборонинформ» – центр информационной безопасности</h1>
+            <div class="region region-content">
+              <div id="block-system-main" class="block block-system">
+                <div class="content">
+                  <div class="content">
+                    <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                      <div class="field-items">
+                        <div class="field-item even">
+                          <p>В основе нашего подхода лежит концепция безрискового проектирования — все решения проходят оценку качества и доводятся до совершенства на площадках наших заказчиков. Для часто встречающихся задач мы используем типовые многократно
+                            проверенные на практике решения. Решая текущие задачи клиентов, мы опираемся на многолетний опыт и учитываем потенциальные потребности клиентов. Такой подход обеспечивает максимальную отдачу от инвестиций в информационную безопасность.
+                            Использование многократно испытанных типовых решений минимизирует риски, позволяет сократить сроки разработки и внедрения средств информационной безопасности.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <footer>
+                  </footer>
+
+                </div>
+              </div>
+              <!-- /.block -->
+              <div id="block-views-partners-block-1" class="block block-views">
+                <h2>Наши партнёры</h2>
+                <div class="content">
+                  <div class="view view-partners view-id-partners view-display-id-block_1 partners-list">
+                    <div class="view-content">
+                      <div class="views-row views-row-1 views-row-odd views-row-first">
+                        <div class="views-field views-field-field-image">
+                          <div class="field-content"><img src={% static "images/logo_0034_check_point_vert_eng_tagline.png" %} " alt=" " width="190 " height="120 "></div>  </div>
+  <div class="views-field views-field-title ">        <strong class="field-content ">CHECKPOINT SOFTWARE TECHNOLOGIES</strong>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even ">
+  <div class="views-field views-field-field-image ">        <div class="field-content "><img src={% static "images/cisco-logo.jpg " %}" alt="" width="120" height="120"></div>
+                        </div>
+                        <div class="views-field views-field-title"> <strong class="field-content">Cisco</strong> </div>
+                      </div>
+                      <div class="views-row views-row-3 views-row-odd">
+                        <div class="views-field views-field-field-image">
+                          <div class="field-content"><img src={% static "images/dr.web_antivirus_dlya_windows-logo.png" %} " alt=" " width="120 " height="120 "></div>  </div>
+  <div class="views-field views-field-title ">        <strong class="field-content ">Dr.Web</strong>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even ">
+  <div class="views-field views-field-field-image ">        <div class="field-content "><img src={% static "images/forcepoint.png " %}" alt="" width="229" height="120"></div>
+                        </div>
+                        <div class="views-field views-field-title"> <strong class="field-content">Forcepoint</strong> </div>
+                      </div>
+                      <div class="views-row views-row-5 views-row-odd">
+
+                        <div class="views-field views-field-field-image">
+                          <div class="field-content"><img src={% static "images/logo_0029_fortinet_hor_eng.png" %} " alt=" " width="200 " height="60 "></div>  </div>
+  <div class="views-field views-field-title ">        <strong class="field-content ">FORTINET</strong>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even ">
+  <div class="views-field views-field-field-image ">        <div class="field-content "><img src={% static "images/lumension.png " %}" alt="" width="200" height="71"></div>
+                        </div>
+                        <div class="views-field views-field-title"> <strong class="field-content">LUMENSION</strong> </div>
+                      </div>
+                      <div class="views-row views-row-7 views-row-odd">
+
+                        <div class="views-field views-field-field-image">
+                          <div class="field-content"><img src={% static "images/logo_0018_mcafee_hor_eng.png" %} " alt=" " width="200 " height="80 "></div>  </div>
+  <div class="views-field views-field-title ">        <strong class="field-content ">MCAFEE, INC.</strong>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even ">
+  <div class="views-field views-field-field-image ">        <div class="field-content "><img src={% static "images/new-microsoft-logo-sized-square-300x297.jpg " %}" alt="" width="121" height="120"></div>
+                        </div>
+                        <div class="views-field views-field-title"> <strong class="field-content">Microsoft</strong> </div>
+                      </div>
+                      <div class="views-row views-row-9 views-row-odd">
+                        <div class="views-field views-field-field-image">
+                          <div class="field-content"><img src={% static "images/logo_0012_paloalto_vert_eng.png" %} " alt=" " width="163 " height="120 "></div>  </div>
+  <div class="views-field views-field-title ">        <strong class="field-content ">PALO ALTO NETWORKS, INC</strong>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last ">
+  <div class="views-field views-field-field-image ">        <div class="field-content "><img src={% static "images/logo_0020_logo_splunk.png " %}" alt="" width="200" height="91"></div>
+                        </div>
+                        <div class="views-field views-field-title"> <strong class="field-content">SPLUNK</strong> </div>
+                      </div>
+                    </div>
+                    <div class="more-link">
+                      <a href="/partners">Все партнёры</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- /.block -->
+            </div>
+            <!-- /.region -->
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+</div>

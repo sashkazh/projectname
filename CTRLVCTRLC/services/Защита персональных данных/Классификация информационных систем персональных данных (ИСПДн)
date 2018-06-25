@@ -1,22 +1,31 @@
 <div id="content-wrap">
-                            <h1 class="page-title">Классификация информационных систем персональных данных (ИСПДн)</h1>                                                                      <div class="region region-content">
-  <div id="block-system-main" class="block block-system">
-
-
-  <div class="content">
-
-
-
-  <div class="content">
-    <div class="field field-name-field-category field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Категория:&nbsp;</div><div class="field-items"><div class="field-item even">Защита персональных данных</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Классификация информационных систем персональных данных (ИСПДн) используемых организацией. Выявление угроз безопасности персональных данных(ПДн), разработка эксплуатационных документов по защите персональных данных в информационных системах.</p>
-</div></div></div><div class="field field-request"><a href="/request?subject=25#content" class="btn">Заполнить заявку</a></div>  </div>
-
-      <footer>
-          </footer>
-
-    </div>
-
-</div> <!-- /.block -->
-</div>
- <!-- /.region -->
+  <h1 class="page-title">Классификация информационных систем персональных данных (ИСПДн)</h1>
+  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+      <div class="content">
+        <div class="content">
+          <div class="field field-name-field-category field-type-taxonomy-term-reference field-label-inline clearfix">
+            <div class="field-label">Категория:&nbsp;</div>
+            <div class="field-items">
+              <div class="field-item even">Защита персональных данных</div>
             </div>
+          </div>
+          <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+            <div class="field-items">
+              <div class="field-item even">
+                <p>Классификация информационных систем персональных данных (ИСПДн) используемых организацией. Выявление угроз безопасности персональных данных(ПДн), разработка эксплуатационных документов по защите персональных данных в информационных системах.</p>
+              </div>
+            </div>
+          </div>
+          <div class="field field-request"><a href="/request?subject=25#content" class="btn">Заполнить заявку</a></div>
+        </div>
+
+        <footer>
+        </footer>
+
+      </div>
+    </div>
+    <!-- /.block -->
+  </div>
+  <!-- /.region -->
+ </div>

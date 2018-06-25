@@ -1,23 +1,32 @@
 <div id="content-wrap">
-                            <h1 class="page-title">Анализ сетевой инфраструктуры</h1>                                                                      <div class="region region-content">
-  <div id="block-system-main" class="block block-system">
-
-
-  <div class="content">
-
-
-
-  <div class="content">
-    <div class="field field-name-field-category field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Категория:&nbsp;</div><div class="field-items"><div class="field-item even">Аудит</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Обследование корпоративной вычислительной сети для сбора сведений о её архитектуре, текущем состоянии, средствах защиты и оценки действующего уровня защищенности.</p>
-<p><a href="/for-what-infsecurity"><span>Что дает соблюдение Федерального закона «О персональных данных»?</span></a></p>
-</div></div></div><div class="field field-request"><a href="/request?subject=11#content" class="btn">Заполнить заявку</a></div>  </div>
-
-      <footer>
-          </footer>
-
-    </div>
-
-</div> <!-- /.block -->
-</div>
- <!-- /.region -->
+  <h1 class="page-title">Анализ сетевой инфраструктуры</h1>
+  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+      <div class="content">
+        <div class="content">
+          <div class="field field-name-field-category field-type-taxonomy-term-reference field-label-inline clearfix">
+            <div class="field-label">Категория:&nbsp;</div>
+            <div class="field-items">
+              <div class="field-item even">Аудит</div>
             </div>
+          </div>
+          <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+            <div class="field-items">
+              <div class="field-item even">
+                <p>Обследование корпоративной вычислительной сети для сбора сведений о её архитектуре, текущем состоянии, средствах защиты и оценки действующего уровня защищенности.</p>
+                <p><a href="/for-what-infsecurity"><span>Что дает соблюдение Федерального закона «О персональных данных»?</span></a></p>
+              </div>
+            </div>
+          </div>
+          <div class="field field-request"><a href="/request?subject=11#content" class="btn">Заполнить заявку</a></div>
+        </div>
+
+        <footer>
+        </footer>
+
+      </div>
+    </div>
+    <!-- /.block -->
+  </div>
+  <!-- /.region -->
+ </div>
